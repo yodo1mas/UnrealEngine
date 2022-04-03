@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1000300,
+	"VersionName": "1.0.3",
+	"FriendlyName": "YodoAds",
+	"Description": "Wrapper of native Android and iOS SDK's for Yodo MAS",
+	"Category": "Code Plugins",
+	"CreatedBy": "Nineva Studios",
+	"CreatedByURL": "https://ninevastudios.com/",
+	"DocsURL": "https://docs.ninevastudios.com/#/ue-plugins/yodo-unreal",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a7749b083e5d4cdcb96684a4c912393e",
+	"EngineVersion": "4.27.2",
+	"SupportURL": "mailto:support@ninevastudios.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "YodoAds",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [ "Win64", "Mac", "Android", "IOS" ]
+		}
+	]
+}
